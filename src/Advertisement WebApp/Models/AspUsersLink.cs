@@ -1,13 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore; 
 
 namespace Advertisement_WebApp.Models
 {
     public class AspUsersLink
     {
-        string User_ID { get; set; }
-        string aspUser_ID { get; set; }
+        [Key]
+        public string User_ID { get; set; }
+        public string aspUser_ID { get; set; }
     }
 }

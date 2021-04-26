@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXsLysVhIofk3pFy2ecomwzcArTEtcJLJYZGvgTqTbgbwlzY1H424dm6kCTHACTKCtpAgoQeflFRglScLNr3dQ==",
+  "dgSpecHash": "dyxJqWsOXlHkdEqGZMJSRZYCiTXhKmD0pjnHhGuvnO8DwfEJj0seHet9mIncWbxsK5mLmZCP1zGkUnqCCht+ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\benai\\source\\repos\\Advertisement WebApp\\Advertisement WebApp\\Advertisement WebApp.csproj",
+  "projectFilePath": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benai\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\benai\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

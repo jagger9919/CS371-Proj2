@@ -1,13 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace Advertisement_WebApp.Models
 {
     public class Statuses
     {
-        string Status_ID { get; set; }
-        string Name { get; set; }
+        [Key]
+        public string Status_ID { get; set; }
+        public string Name { get; set; }
     }
 }

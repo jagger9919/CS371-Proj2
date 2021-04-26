@@ -6356,11 +6356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benai\\source\\repos\\Advertisement WebApp\\Advertisement WebApp\\Advertisement WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
       "projectName": "Advertisement WebApp",
-      "projectPath": "C:\\Users\\benai\\source\\repos\\Advertisement WebApp\\Advertisement WebApp\\Advertisement WebApp.csproj",
+      "projectPath": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
       "packagesPath": "C:\\Users\\benai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benai\\source\\repos\\Advertisement WebApp\\Advertisement WebApp\\obj\\",
+      "outputPath": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

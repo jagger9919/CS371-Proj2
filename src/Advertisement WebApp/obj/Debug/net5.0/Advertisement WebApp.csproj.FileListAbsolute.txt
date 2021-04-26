@@ -89,3 +89,97 @@ C:\Users\benai\source\repos\Advertisement WebApp\Advertisement WebApp\bin\Debug\
 C:\Users\benai\source\repos\Advertisement WebApp\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
 C:\Users\benai\source\repos\Advertisement WebApp\Advertisement WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\benai\source\repos\Advertisement WebApp\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.StaticWebAssets.xml
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.exe
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.deps.json
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.runtimeconfig.json
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.runtimeconfig.dev.json
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\ref\Advertisement WebApp.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.Views.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.Views.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csprojAssemblyReference.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.AssemblyInfoInputs.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.AssemblyInfo.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csproj.CoreCompileInputs.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorAssemblyInfo.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorAssemblyInfo.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\staticwebassets\Advertisement WebApp.StaticWebAssets.Manifest.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\staticwebassets\Advertisement WebApp.StaticWebAssets.xml
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\scopedcss\bundle\Advertisement WebApp.styles.css
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.TagHelpers.input.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.TagHelpers.output.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorCoreGenerate.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Index.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.Views.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csproj.CopyComplete
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\ref\Advertisement WebApp.dll
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.pdb
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.genruntimeconfig.cache
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Create.cshtml.g.cs
+C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Delete.cshtml.g.cs

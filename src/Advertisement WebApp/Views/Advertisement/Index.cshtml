@@ -1,0 +1,118 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model IEnumerable<Advertisement_WebApp.Models.Advertisements>
+
+@{
+    ViewData["Title"] = "Advertisements";
+}
+
+<h3>User Advertisements</h3>
+<h6>View and add new advertisements.</h6>
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Action</th>
+            <th scope="col">Title</th>
+            <th scope="col">Date</th>
+            <th scope="col">Details</th>
+            <th scope="col">Price</th>
+            <th scope="col">Category</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Delete" aso-route-id="@item.AdvTitle">Delete</a>
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdvTitle)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdvDateTime)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdvDetails)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+
+                @if (item.Category_ID.ToString() == "CAT")
+                {
+                    <td>
+                        Cars and Trucks
+                    </td>
+                }
+
+                else if (item.Category_ID.ToString() == "HOU")
+                {
+                    <td>
+                        Housing
+                    </td>
+                }
+
+                else if (item.Category_ID.ToString() == "ELC")
+                {
+                    <td>
+                        Electronics
+                    </td>
+                }
+
+                else if (item.Category_ID.ToString() == "CCA")
+                {
+                    <td>
+                        Child Care
+                    </td>
+                }
+
+                else
+                {
+                    <td>
+                        Error
+                    </td>
+                }
+
+                @if (item.Status_ID.ToString() == "PN")
+                {
+                    <td>
+                        Pending
+                    </td>
+                }
+
+                else if (item.Status_ID.ToString() == "AC")
+                {
+                    <td>
+                        Active
+                    </td>
+                }
+
+                else if (item.Status_ID.ToString() == "DI")
+                {
+                    <td>
+                        Disapproved
+                    </td>
+                }
+
+                else
+                {
+                    <td>
+                        Error
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create">Add New Advertisement</a>

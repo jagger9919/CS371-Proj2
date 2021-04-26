@@ -14,5 +14,11 @@ namespace Advertisement_WebApp.Data
             : base(options)
         {
         }
+
+        public DbSet<Advertisements> Advertisements { get; set; }
+        public DbSet<Categories> Categories { get; set; }
+        public DbSet<Moderators> Moderators { get; set; }
+        public DbSet<Statuses> Statuses { get; set; }
+        public DbSet<Users> advUsers { get; set; }
     }
 }

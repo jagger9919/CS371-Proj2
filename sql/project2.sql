@@ -74,3 +74,15 @@ CREATE TABLE AspNetUsersLink (
 CREATE LOGIN AdvertisementCustomer WITH PASSWORD = '!Password123';
 CREATE USER AdvertisementCustomer FOR LOGIN AdvertisementCustomer;
 GRANT SELECT, UPDATE, INSERT, EXEC TO AdvertisementCustomer;
+
+/* PROCEDURES */
+CREATE PROCEDURE getUserAdvertisements @Id NVARCHAR(450)
+AS
+BEGIN
+	SELECT U.Id, A.advTitle, A.advDateTime, A.advDetails, A.price, A.status_ID
+		FROM AspNetUsers as U
+			INNER JOIN AspNetUsersLink AS UL ON U.Id = UL.aspUser_ID
+			INNER JOIN advertisements AS A ON UL.user_ID = A.user_ID
+		WHERE @Id = U.Id
+		ORDER BY A.status_ID, A.advDateTime;
+END
