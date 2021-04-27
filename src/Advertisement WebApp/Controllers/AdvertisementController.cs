@@ -33,93 +33,57 @@ namespace Advertisement_WebApp.Controllers
             return View();
         }
 
-        /*[HttpPost]
+        [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Advertisements advertisements)
+        public async Task<IActionResult> Create(Advertisements advertisement)
         {
-            if ((ModelState.IsValid) &&
-                (advertisements.Type == "Login" || advertisements.Type == "Balance" || advertisements.Type == "Deposit" || advertisements.Type == "Withdrawal") &&
-                (advertisements.Condition == "Above" || advertisements.Condition == "Below" || advertisements.Condition == "NA") &&
-                (advertisements.Value >= 0))
+            if (ModelState.IsValid)
             {
-                if ((advertisements.Type == "Deposit" || advertisements.Type == "Withdrawal") &&
-                    (advertisements.Value <= 0))
-                {
-                    return View(advertisements);
-                }
-
-                if (advertisements.Type == "Login")
-                {
-                    advertisements.Condition = "NA";
-                    advertisements.Value = 0;
-                }
-
-                if (advertisements.Message == null || advertisements.Message.ToString() == "")
-                {
-                    advertisements.Message = "NA";
-                }
-
                 var param = new SqlParameter[] {
                         new SqlParameter() {
-                            ParameterName = "@customer_id",
-                            SqlDbType =  System.Data.SqlDbType.NVarChar,
-                            Size = 450,
-                            Direction = System.Data.ParameterDirection.Input,
-                            Value = User.FindFirstValue(ClaimTypes.NameIdentifier)
-                        },
-                        new SqlParameter() {
-                            ParameterName = "@type",
+                            ParameterName = "@advTitle",
                             SqlDbType =  System.Data.SqlDbType.VarChar,
-                            Size = 32,
+                            Size = 35,
                             Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Type
+                            Value = advertisement.AdvTitle
                         },
                         new SqlParameter() {
-                            ParameterName = "@condition",
+                            ParameterName = "@advDetails",
                             SqlDbType =  System.Data.SqlDbType.VarChar,
-                            Size = 32,
+                            Size = 100,
                             Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Condition
+                            Value = advertisement.AdvDetails
                         },
                         new SqlParameter() {
-                            ParameterName = "@value",
+                            ParameterName = "@price",
                             SqlDbType =  System.Data.SqlDbType.Decimal,
+                            Precision = 18,
+                            Scale = 2,
                             Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Value
+                            Value = advertisement.Price
                         },
                         new SqlParameter() {
-                            ParameterName = "@notify_text",
-                            SqlDbType =  System.Data.SqlDbType.Bit,
+                            ParameterName = "@category_ID",
+                            SqlDbType =  System.Data.SqlDbType.Char,
+                            Size = 3,
                             Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Notify_Text
+                            Value = advertisement.Category_ID
                         },
                         new SqlParameter() {
-                            ParameterName = "@notify_email",
-                            SqlDbType =  System.Data.SqlDbType.Bit,
-                            Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Notify_Email
-                        },
-                        new SqlParameter() {
-                            ParameterName = "@notify_web",
-                            SqlDbType =  System.Data.SqlDbType.Bit,
-                            Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Notify_Web
-                        },
-                        new SqlParameter() {
-                            ParameterName = "@message",
+                            ParameterName = "@user_ID",
                             SqlDbType =  System.Data.SqlDbType.VarChar,
-                            Size = 300,
+                            Size = 25,
                             Direction = System.Data.ParameterDirection.Input,
-                            Value = advertisements.Message
+                            Value = User.Identity.Name
                         }};
 
-                await _context.Database.ExecuteSqlRawAsync("[dbo].[AddNotificationRule] @customer_id, @type, @condition, @value, @notify_text, @notify_email, @notify_web, @message", param);
+                await _context.Database.ExecuteSqlRawAsync("[dbo].[addAdvertisement] @advTitle, @advDetails, @price, @category_ID, @user_ID", param);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Manage");
+                return RedirectToAction("Index");
             }
 
-            return View(advertisements);
-        }*/
+            return View(advertisement);
+        }
 
         public async Task<IActionResult> Delete(int? id)
         {

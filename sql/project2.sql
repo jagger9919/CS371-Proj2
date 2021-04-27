@@ -31,7 +31,7 @@ CREATE TABLE advertisements (
 	advTitle VARCHAR(35) NOT NULL,
 	advDetails VARCHAR(100) NOT NULL,
 	advDateTime DATETIME NOT NULL,
-	price DECIMAL NOT NULL,
+	price DECIMAL(18, 2) NOT NULL,
 	category_ID char(3) NOT NULL,
 	user_ID VARCHAR(25) NOT NULL,
 	moderator_ID VARCHAR(25),
@@ -77,6 +77,7 @@ CREATE USER AdvertisementCustomer FOR LOGIN AdvertisementCustomer;
 GRANT SELECT, UPDATE, INSERT, EXEC TO AdvertisementCustomer;
 
 /* PROCEDURES */
+/* Return table consisting of a specific user's advertisements */
 CREATE PROCEDURE [dbo].[getUserAdvertisements] @Id NVARCHAR(450)
 AS
 BEGIN
@@ -86,4 +87,20 @@ BEGIN
 			INNER JOIN advertisements AS A ON UL.user_ID = A.user_ID
 		WHERE @Id = U.Id
 		ORDER BY A.status_ID, A.advDateTime;
+END
+
+/* Add new advertisement given its Title, Details, Price, Cat. ID, and User ID. */
+CREATE PROCEDURE addAdvertisement @advTitle VARCHAR(35), @advDetails VARCHAR(100), @price DECIMAL(18, 2), @category_ID CHAR(3), @user_ID VARCHAR(25)
+AS
+BEGIN
+  INSERT INTO advertisements (advTitle, advDetails, advDateTime, price, category_ID, user_ID, moderator_ID, status_ID)
+    VALUES (@advTitle, @advDetails, GETDATE(), @price, @category_ID, @user_ID, NULL, 'PN');
+END
+
+/* Delete advertisement given its ID */
+CREATE PROCEDURE delAdvertisement @advertisement_ID
+AS
+BEGIN
+  DELETE FROM advertisements
+    WHERE advertisement_ID = @advertisement_ID
 END
