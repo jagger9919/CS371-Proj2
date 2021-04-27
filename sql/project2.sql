@@ -27,6 +27,7 @@ CREATE TABLE moderators (
 );
 
 CREATE TABLE advertisements (
+	advertisement_ID INT IDENTITY(1, 1) NOT NULL,
 	advTitle VARCHAR(35) NOT NULL,
 	advDetails VARCHAR(100) NOT NULL,
 	advDateTime DATETIME NOT NULL,
@@ -35,7 +36,7 @@ CREATE TABLE advertisements (
 	user_ID VARCHAR(25) NOT NULL,
 	moderator_ID VARCHAR(25),
 	status_ID char(2) NOT NULL,
-	PRIMARY KEY (advTitle),
+	PRIMARY KEY (advertisement_ID),
 	FOREIGN KEY (user_ID) REFERENCES users (user_ID),
 	FOREIGN KEY (moderator_ID) REFERENCES moderators (user_ID),
 	FOREIGN KEY (status_ID) REFERENCES statuses (status_ID)
@@ -76,10 +77,10 @@ CREATE USER AdvertisementCustomer FOR LOGIN AdvertisementCustomer;
 GRANT SELECT, UPDATE, INSERT, EXEC TO AdvertisementCustomer;
 
 /* PROCEDURES */
-CREATE PROCEDURE getUserAdvertisements @Id NVARCHAR(450)
+CREATE PROCEDURE [dbo].[getUserAdvertisements] @Id NVARCHAR(450)
 AS
 BEGIN
-	SELECT U.Id, A.advTitle, A.advDateTime, A.advDetails, A.price, A.status_ID
+	SELECT A.advertisement_ID, A.advTitle, A.advDateTime, A.advDetails, A.price, A.category_ID, A.user_ID, A.moderator_ID, status_ID
 		FROM AspNetUsers as U
 			INNER JOIN AspNetUsersLink AS UL ON U.Id = UL.aspUser_ID
 			INNER JOIN advertisements AS A ON UL.user_ID = A.user_ID
