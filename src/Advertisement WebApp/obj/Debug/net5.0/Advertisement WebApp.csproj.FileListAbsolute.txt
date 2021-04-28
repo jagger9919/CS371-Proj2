@@ -183,3 +183,97 @@ C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertis
 C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.genruntimeconfig.cache
 C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Create.cshtml.g.cs
 C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Delete.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\appsettings.Development.json
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\appsettings.json
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.StaticWebAssets.xml
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.exe
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.deps.json
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.runtimeconfig.json
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.runtimeconfig.dev.json
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\ref\Advertisement WebApp.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.Views.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Advertisement WebApp.Views.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Humanizer.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csprojAssemblyReference.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.AssemblyInfoInputs.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.AssemblyInfo.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csproj.CoreCompileInputs.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.MvcApplicationPartsAssemblyInfo.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorAssemblyInfo.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorAssemblyInfo.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\staticwebassets\Advertisement WebApp.StaticWebAssets.Manifest.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\staticwebassets\Advertisement WebApp.StaticWebAssets.xml
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\scopedcss\bundle\Advertisement WebApp.styles.css
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.TagHelpers.input.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.TagHelpers.output.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorCoreGenerate.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Create.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Delete.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Advertisement\Index.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorTargetAssemblyInfo.cache
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.RazorTargetAssemblyInfo.cs
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.Views.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.csproj.CopyComplete
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\ref\Advertisement WebApp.dll
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.pdb
+F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\obj\Debug\net5.0\Advertisement WebApp.genruntimeconfig.cache

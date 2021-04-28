@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\benai\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\benai\\.nuget\\packages",
+      "C:\\Users\\judge\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\judge\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }

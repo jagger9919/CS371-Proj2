@@ -6350,23 +6350,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\benai\\.nuget\\packages\\": {},
+    "C:\\Users\\judge\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
+      "projectUniqueName": "F:\\Judge Greenberger\\School\\DB Design\\proj2\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
       "projectName": "Advertisement WebApp",
-      "projectPath": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
-      "packagesPath": "C:\\Users\\benai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benai\\OneDrive\\Desktop\\Spring2021\\CS371\\github\\CS371-Proj2\\src\\Advertisement WebApp\\obj\\",
+      "projectPath": "F:\\Judge Greenberger\\School\\DB Design\\proj2\\CS371-Proj2\\src\\Advertisement WebApp\\Advertisement WebApp.csproj",
+      "packagesPath": "C:\\Users\\judge\\.nuget\\packages\\",
+      "outputPath": "F:\\Judge Greenberger\\School\\DB Design\\proj2\\CS371-Proj2\\src\\Advertisement WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\benai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\judge\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6436,7 +6436,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
