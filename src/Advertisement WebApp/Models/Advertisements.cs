@@ -8,6 +8,7 @@ namespace Advertisement_WebApp.Models
     public class Advertisements
     {
         [Key]
+        public int Advertisement_ID { get; set; }
         public string AdvTitle { get; set; }
         public string AdvDetails { get; set; }
         public DateTime AdvDateTime { get; set; }
