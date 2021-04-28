@@ -13,6 +13,7 @@
     <dt class="col-sm-2">
         @Html.DisplayNameFor(model => model.AdvTitle)
     </dt>
+
     <dd class="col-sm-10">
         @Html.DisplayFor(model => model.AdvTitle)
     </dd>
@@ -29,7 +30,7 @@
         $@Html.DisplayFor(model => model.Price)
     </dd>
 </dl>
-
+<hr />
 <form asp-action="Delete">
     <input type="hidden" asp-for="AdvTitle" />
     <input type="submit" value="Delete" /> | <a asp-action="Index">Return to Advertisements</a>

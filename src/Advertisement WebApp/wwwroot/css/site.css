@@ -89,3 +89,11 @@ hr{
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+}

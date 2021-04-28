@@ -13,21 +13,21 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
+#line 1 "F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Identity;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
+#line 2 "F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
 using Advertisement_WebApp.Areas.Identity;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\benai\OneDrive\Desktop\Spring2021\CS371\github\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
+#line 3 "F:\Judge Greenberger\School\DB Design\proj2\CS371-Proj2\src\Advertisement WebApp\Areas\Identity\Pages\_ViewImports.cshtml"
 using Advertisement_WebApp.Areas.Identity.Pages;
 
 #line default
