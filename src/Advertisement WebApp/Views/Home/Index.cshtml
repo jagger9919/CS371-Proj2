@@ -6,7 +6,11 @@
 }
 
 <div class="text-center">
-    <h1 class="text">Team //FIXME's Advertisement Web App</h1>
+    <h1>Team //FIXME's Advertisement Web App</h1>
+    <br />
+    <img src="logo.png" />
+    <br />
+    <br />
     @if (SignInManager.IsSignedIn(User))
     {
         <p>Welcome, @User.Identity.Name.</p>
@@ -15,4 +19,6 @@
     {
         <p>Welcome, please log in to continue.</p>
     }
+    
+
 </div>
